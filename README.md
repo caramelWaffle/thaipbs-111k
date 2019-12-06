@@ -10,6 +10,17 @@ The `thaipbs-111k` dataset is crawled from the news site Thai PBS News. This dat
 After filtering, it contains 111,614 articles with xxx,xxx tags and x,xxx lebels from May 8, 2015 to October 21, 2019. This dataset was crawled and cleaned by [@CaramelWaffle](https://github.com/caramelWaffle) and [@nakhunchumpolsathien](https://github.com/nakhunchumpolsathien). 
 
 ## `thaipbs-111k` Dataset Statistics
-
-## Level of Abstractedness
+| Properties     | Value |
+| :--------- | -----:|
+| Dataset Size  | 111,614 |
+| Average Article Length     |   478.44 |
+| Average Summary Length     |    46.54 |
+| Average Title Length |      12.43|
+| Unique Tag Size |  — |
+| Vocabulary Size | — |
+> — To be updated
+### Level of Abstractedness
 Abstractedness of the dataset is measured by calculating the unique n-grams in the reference summary which are not in the article. We compare the abstractedness level of `thaipbs-111k` dataset to `thairath-228k` dataset. The comparison is shown in the below figure.
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">This dataset</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/caramelWaffle/thaipbs-111k" rel="dct:source">https://github.com/caramelWaffle/thaipbs-111k</a>.
