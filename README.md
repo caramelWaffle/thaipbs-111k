@@ -7,7 +7,7 @@ The `thaipbs-111k` dataset is crawled from the news site Thai PBS News. This dat
 - Summary contains less than 8 words.
 - The abstractedness of the summary at 1-grams is *higher* than 65%.
 
-After filtering, it contains 111,614 articles with 101,457 tags and 45 lebels from May 8, 2015 to October 21, 2019. This dataset was crawled and cleaned by [Tanachat Arayachutinan](https://github.com/caramelWaffle) and [Nakhun Chumpolsathien](https://github.com/nakhunchumpolsathien). You can see preliminary exploration in `exploration.ipynb`.
+After filtering, it contains 111,614 articles with 101,457 tags and 16 lebels from May 8, 2015 to October 21, 2019. This dataset was crawled and cleaned by [Tanachat Arayachutinan](https://github.com/caramelWaffle) and [Nakhun Chumpolsathien](https://github.com/nakhunchumpolsathien). You can see preliminary exploration in `exploration.ipynb`.
 > Code in `exploration.ipynb` is borrowed from the exploratory notebook of [prachathai-67k](https://github.com/PyThaiNLP/prachathai-67k) dataset.
 
 ## `thaipbs-111k` Dataset Statistics
@@ -18,7 +18,7 @@ After filtering, it contains 111,614 articles with 101,457 tags and 45 lebels fr
 | Average Summary Length     |    36.52 |
 | Average Title Length |      —|
 | Unique Tag Size |101,457|
-| Unique Label Size |45|
+| Unique Label Size |16|
 | Vocabulary Size | — |
 > — To be updated
 ### Compression Ratio
