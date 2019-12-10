@@ -17,7 +17,8 @@ After filtering, it contains 111,614 articles with — tags and — lebels from 
 | Average Article Length     |   254.28 |
 | Average Summary Length     |    36.52 |
 | Average Title Length |      —|
-| Unique Tag Size |  — |
+| Unique Tag Size |  101,457|
+| Unique Label Size |  45|
 | Vocabulary Size | — |
 > — To be updated
 ### Compression Ratio
