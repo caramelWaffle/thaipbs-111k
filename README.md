@@ -1,5 +1,5 @@
 #Update:
-The new vesion of thaipbs-111k and Thairath-222k can be downloaded at https://github.com/caramelWaffle/TR-TPBS
+The new vesion of thaipbs-111k and Thairath-222k can be downloaded at https://github.com/nakhunchumpolsathien/TR-TPBS
 
 # thaipbs-111k
 **A dataset for Thai Text Summarisation from https://news.thaipbs.or.th/news.**
